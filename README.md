@@ -8,24 +8,19 @@ Toshiba dizüstü bilgisayarlar için özel olarak geliştirilmiş, sistem kayna
 
 İlk olarak bu depoyu kendi bilgisayarınıza çekin:
 
-```bash
 git clone [https://github.com/Baysim33/toshiba-sistem-paneli](https://github.com/Baysim33/toshiba-sistem-paneli)
-
 
 Proje Klasörüne Girin
 ​İndirilen klasörün içine terminal üzerinden girin:
 cd toshiba-sistem-paneli
 
-
 Gerekli Kütüphaneyi Kurun
 ​Sistem bileşenlerini okumak için gerekli kütüphaneyi kurun:
 pip install psutil
 
-
 Paneli Ateşleyin!
 ​Her şey hazır, paneli canlı olarak başlatın:
 python kontrol.py
-
 
  Özellikler
 ​Anlık İşlemci (CPU) Takibi: Görsel barlar ile işlemci yükünü anlık izleyin.
