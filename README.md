@@ -14,17 +14,17 @@ git clone [https://github.com/Baysim33/toshiba-sistem-paneli.git](https://github
 
 Proje Klasörüne Girin
 ​İndirilen klasörün içine terminal üzerinden geçiş yapın:
-'''bash
+```bash
 cd toshiba-sistem-paneli
 
 Gerekli Kütüphaneyi Kurun
 ​Sistem bileşenlerini okumak için gerekli olan Python kütüphanesini yükleyin:
-'''bash
+```bash
 pip install psutil
 
 Paneli Ateşleyin!
 ​Her şey hazır, paneli canlı olarak başlatmak için şu komutu yürütün:
-'''bash
+```bash
 python kontrol.py
 
 🚀 Özellikler
